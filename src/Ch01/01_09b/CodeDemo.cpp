@@ -3,7 +3,7 @@
 // Terminal Interaction, by Eduardo Corpeño 
 
 #include <iostream>
-#include <string>
+#include <cstring>
 
 int main(){
     std::string name;
